@@ -5,5 +5,5 @@ git_repository(
     name = "libusb",
     build_file = "@//build_external/libusb:BUILD.libusb.bazel",
     commit = "7b5267099855d320f6013d667d113e3619f18bf5",
-    remote = "https://android.googlesource.com/platform/external/libusb",
+    remote = "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/libusb",
 )

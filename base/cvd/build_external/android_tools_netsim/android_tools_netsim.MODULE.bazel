@@ -112,7 +112,7 @@ git_repository(
     name = "android_tools_netsim",
     build_file = "@//build_external/android_tools_netsim:BUILD.android_tools_netsim.bazel",
     commit = "efabf7cb7e63b7466f79e9171907ed1e746ef1a3",
-    remote = "https://android.googlesource.com/platform/tools/netsim",
+    remote = "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/tools/netsim",
     patches = [
         "@//build_external/android_tools_netsim:0001-Drop-pica-from-daemon-Cargo.toml.patch",
         "@//build_external/android_tools_netsim:0002-Fix-build-with-tungstenite-0.26.0.patch",

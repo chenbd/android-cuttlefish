@@ -5,5 +5,5 @@ git_repository(
     name = "libnl",
     build_file = "@//build_external/libnl:BUILD.libnl.bazel",
     commit = "f9682564a48d5ac5ee922de49e81aab4aa984f1e",
-    remote = "https://android.googlesource.com/platform/external/libnl",
+    remote = "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/libnl",
 )

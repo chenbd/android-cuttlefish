@@ -7,5 +7,5 @@ git_repository(
     #commit = "998d2a2e81e11043781672494dc3d294c1ecfce0",
     #remote = "https://gitlab.freedesktop.org/mesa/drm.git",
     commit = "f241f822cebbd681e46201b16685a827eb024736",
-    remote = "https://android.googlesource.com/platform/external/libdrm.git",
+    remote = "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/libdrm.git",
 )

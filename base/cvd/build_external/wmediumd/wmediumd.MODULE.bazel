@@ -4,6 +4,6 @@ git_repository(
     name = "wmediumd",
     build_file = "@//build_external/wmediumd:BUILD.wmediumd.bazel",
     commit = "f44d2af28b8045eb31ff045d3c078e60865afa98",
-    remote = "https://android.googlesource.com/platform/external/wmediumd",
+    remote = "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/external/wmediumd",
 )
 

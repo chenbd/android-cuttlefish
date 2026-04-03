@@ -4,5 +4,5 @@ git_repository(
     name = "android_system_extras",
     build_file = "@//build_external/android_system_extras:BUILD.android_system_extras.bazel",
     commit = "fc2494a2abd7ab21774d03deb09c1362bbb0bba8",
-    remote = "https://android.googlesource.com/platform/system/extras",
+    remote = "https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/platform/system/extras",
 )
